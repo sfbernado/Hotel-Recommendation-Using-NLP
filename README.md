@@ -71,6 +71,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 Stanislaus Frans Bernado
-[![Gmail Badge](https://img.shields.io/badge/-stanislausfb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:stanislausfb@gmail.com "Connect via Email")
 
+[![Gmail Badge](https://img.shields.io/badge/-stanislausfb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:stanislausfb@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Stanislaus%20Frans%20Bernado-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stanislausfb/ "Connect on LinkedIn")
