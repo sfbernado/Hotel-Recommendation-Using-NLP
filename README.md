@@ -43,16 +43,6 @@ export KAGGLE_CONFIG_DIR=/path/to/kaggle.json
 jupyter notebook Hotel-Recommendation-Using-NLP.ipynb
 ```
 
-## Example Usage
-
-To use the recommendation system, run the following code:
-
-```python
-from hotel_recommendation_using_nlp import recommend_hotel
-input_description = input("What do you need?\n")
-recommendation = recommend_hotel(input_description)
-print(recommendation)
-```
 ## Contributing
 
 Contributions are welcome! Please feel free to open an issue or submit a Pull Request.
