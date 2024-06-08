@@ -29,6 +29,12 @@ cd Hotel-Recommendation-Using-NLP
 
 2. Install the required packages:
 ```bash
+pip install numpy pandas nltk
+```
+
+or
+
+```bash
 pip install -r requirements.txt
 ```
 
