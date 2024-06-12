@@ -27,7 +27,12 @@ git clone https://github.com/sfbernado/Hotel-Recommendation-Using-NLP.git
 cd Hotel-Recommendation-Using-NLP
 ```
 
-2. Install the required packages:
+2. Navigate to the project repository:
+```bash
+cd Hotel-Recommendation-Using-NLP
+```
+
+3. Install the required packages:
 ```bash
 pip install numpy pandas nltk
 ```
@@ -38,18 +43,18 @@ or
 pip install -r requirements.txt
 ```
 
-3. Setup Kaggle API (optional):
+4. Setup Kaggle API (optional):
 ```bash
 pip install kaggle
 export KAGGLE_CONFIG_DIR=/path/to/kaggle.json
 ```
 
-4. Run the Jupyter Notebook:
+5. Run the Jupyter Notebook:
 ```bash
 jupyter notebook Hotel-Recommendation-Using-NLP.ipynb
 ```
 
-5. Run the notebook cells sequentially
+6. Run the notebook cells sequentially
 
 ## Contributing
 
