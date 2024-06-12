@@ -44,10 +44,12 @@ pip install kaggle
 export KAGGLE_CONFIG_DIR=/path/to/kaggle.json
 ```
 
-4. Run the Jupyter notebook:
+4. Run the Jupyter Notebook:
 ```bash
 jupyter notebook Hotel-Recommendation-Using-NLP.ipynb
 ```
+
+5. Run the notebook cells sequentially
 
 ## Contributing
 
